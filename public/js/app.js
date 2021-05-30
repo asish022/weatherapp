@@ -1,5 +1,5 @@
-console.log('client side js is loades')
-
+/* console.log('client side js is loades')
+ */
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
